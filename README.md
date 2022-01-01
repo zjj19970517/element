@@ -1,3 +1,5 @@
+> Fork 至 Element，此项目用作 Element 源码分析；
+
 <p align="center">
   <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
 </p>
