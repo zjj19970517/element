@@ -1,3 +1,7 @@
+/**
+ * @functional 生成版本信息
+ */
+
 var fs = require('fs');
 var path = require('path');
 var version = process.env.VERSION || require('../../package.json').version;

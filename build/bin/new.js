@@ -1,3 +1,7 @@
+/**
+ * @functional 添加一个新组件
+ */
+
 'use strict';
 
 console.log();

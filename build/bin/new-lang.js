@@ -1,3 +1,6 @@
+/**
+ * @functional 增加一个新语言
+ */
 'use strict';
 
 console.log();

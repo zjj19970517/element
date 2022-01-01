@@ -4,6 +4,8 @@ const fs = require('fs');
 const path = require('path');
 const algoliasearch = require('algoliasearch');
 const slugify = require('transliteration').slugify;
+
+// 文件不存在，什么鬼？？？
 const key = require('./algolia-key');
 
 const client = algoliasearch('4C63BTGP6S', key);
